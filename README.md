@@ -5,16 +5,17 @@ This repository contributes for sentiment analysis task used for different datas
 The Social Media Sentiments Analysis Dataset captures a vibrant tapestry of emotions, trends, and interactions across various social media platforms. This dataset provides a snapshot of user-generated content, encompassing text, timestamps, hashtags, countries, likes, and retweets. Each entry unveils unique stories—moments of surprise, excitement, admiration, thrill, contentment, and more—shared by individuals worldwide.
 
 **Key Features**
-Feature	Description
-Timestamp	Date and time information
-Text	User-generated content showcasing sentiments
-User	Unique identifiers of users contributing
-Platform	Social media platform where the content originated
-Hashtags	Identifies trending topics and themes
-Likes	Quantifies user engagement (likes)
-Retweets	Reflects content popularity (retweets)
-Country	Geographical origin of each post
-Sentiment	Categorized emotions
+| Feature    | Description                                           |
+|------------|-------------------------------------------------------|
+| Timestamp  | Date and time information                             |
+| Text       | User-generated content showcasing sentiments          |
+| User       | Unique identifiers of users contributing              |
+| Platform   | Social media platform where the content originated    |
+| Hashtags   | Identifies trending topics and themes                 |
+| Likes      | Quantifies user engagement (likes)                    |
+| Retweets   | Reflects content popularity (retweets)                |
+| Country    | Geographical origin of each post                      |
+| Sentiment  | Categorized emotions                                  |
 
 **How to Use The Social Media Sentiments Analysis Dataset 📊**
 
