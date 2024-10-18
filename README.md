@@ -33,6 +33,5 @@ Source: https://www.kaggle.com/datasets/kashishparmar02/social-media-sentiments-
 
 
 ### Banglabook 
-https://github.com/mohsinulkabir14/BanglaBook
-=======
->>>>>>> 2af67fedd2019622b4f5d08e62875e49c54b91d7
+
+Source: https://github.com/mohsinulkabir14/BanglaBook
